@@ -83,8 +83,14 @@ button:active {
     }
 
     button {
-        min-width: 300px; 
+        min-width: 200px;
         background-color: rgb(202, 92, 19);
+    }
+
+    #modal__window {
+        border-radius: 15px;
+        width: 90%;
+        
     }
 
 }
